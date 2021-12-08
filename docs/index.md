@@ -36,7 +36,7 @@ Python, C++, HTML, CSS, JavaScript, SQL
 
 #### Tools
 
-Excel, Git, Github Visual Studio, MySQL
+Excel, Git, Github, Visual Studio, MySQL
 
 
 
