@@ -24,6 +24,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 **Relevant Coursework**
+
 Data Structures - Web Fundamentals - Computer Systems - Programming with Classes - Intro to Software Development - Calculus - Intro to Databases - Discrete Mathematics - Applied Programming - Applied Calculus for Data Analysis
 
 ## Technical Skills 
